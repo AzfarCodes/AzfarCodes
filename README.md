@@ -10,7 +10,7 @@
 
 🏀 I’m interested in reading books, football, basketball, coding etc.
 
-💻 I’m currently learning Fullstack Web Development [HTML, CSS, Javascript, continued..]
+💻 I’m currently learning Fullstack Web Development [HTML, CSS, Javascript, continued...]
 
 📫 Reach me on my email: azfarwork2005@gmail.com
 
