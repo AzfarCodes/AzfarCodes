@@ -8,7 +8,7 @@
    3. Dice Game: https://azfarcodes.github.io/dice/
 
 
-🏀 I’m interested in reading books, football, volleyball, coding etc.
+🏐 I’m interested in reading books, football, volleyball, coding etc.
 
 💻 I’m currently learning Fullstack Web Development [HTML, CSS, Javascript, continued...]
 
