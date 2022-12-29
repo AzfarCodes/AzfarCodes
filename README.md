@@ -12,7 +12,7 @@
 
 💻 I’m currently learning Fullstack Web Development [HTML, CSS, Javascript, continued...]
 
-📫 Reach me on my email: azfarwork2005@gmail.com
+📫 Reach me on my mail: azfarwork2005@gmail.com
 
 <!---
 AzfarCodes/AzfarCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
