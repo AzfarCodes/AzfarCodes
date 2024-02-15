@@ -1,4 +1,4 @@
-👋 Hi, I’m @AzfarCodes, 17, a highschool student.
+👋 Hi, I’m @AzfarCodes, 18, a student.
 
 
 
